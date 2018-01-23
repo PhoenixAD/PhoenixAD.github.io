@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-21T09:38:32.027Z</updated>
+  <updated>2018-01-23T03:28:26.635Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,50 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>kubernetes</title>
+    <link href="http://yoursite.com/2018/01/23/kubernetes/"/>
+    <id>http://yoursite.com/2018/01/23/kubernetes/</id>
+    <published>2018-01-23T03:09:03.000Z</published>
+    <updated>2018-01-23T03:28:26.635Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>How to install kubernetes in Windows10 via Minikube<br><a href="https://kubernetes.io/docs/" target="_blank" rel="noopener">Link of official documents</a>  </li></ul><p>To be continue…</p>]]></content>
+    
+    <summary type="html">
+    
+      experience about install and config k8s
+    
+    </summary>
+    
+      <category term="sre" scheme="http://yoursite.com/categories/sre/"/>
+    
+    
+      <category term="k8s" scheme="http://yoursite.com/tags/k8s/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>tutorial of github blog</title>
+    <link href="http://yoursite.com/2018/01/23/tutorial/"/>
+    <id>http://yoursite.com/2018/01/23/tutorial/</id>
+    <published>2018-01-23T02:51:36.000Z</published>
+    <updated>2018-01-23T03:06:25.447Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="To-be-continue…"><a href="#To-be-continue…" class="headerlink" title="To be continue…"></a>To be continue…</h1><blockquote><p>关于搭建github博客的流程与注意事项</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      tutorial of github blog
+    
+    </summary>
+    
+      <category term="tutorials" scheme="http://yoursite.com/categories/tutorials/"/>
+    
+    
+      <category term="github blog" scheme="http://yoursite.com/tags/github-blog/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
