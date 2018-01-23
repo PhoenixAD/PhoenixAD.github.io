@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>麒麟阁</title>
+  <title>Kylin Island</title>
   <icon>https://www.gravatar.com/avatar/258a5ea74cb07c9efd65fef61cfca44c</icon>
-  <subtitle>心之所向，素履以往</subtitle>
+  <subtitle>Live beautifully. Dream passionately. Love completely.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>李牧之</name>
+    <name>David Lee</name>
     <email>phoenixyaj@gmail.com</email>
   </author>
   
