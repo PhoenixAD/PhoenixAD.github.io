@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-24T15:38:20.156Z</updated>
+  <updated>2018-01-24T16:29:38.273Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2018/01/23/kubernetes/"/>
     <id>http://yoursite.com/2018/01/23/kubernetes/</id>
     <published>2018-01-23T03:09:03.000Z</published>
-    <updated>2018-01-24T15:38:20.156Z</updated>
+    <updated>2018-01-24T16:29:38.273Z</updated>
     
-    <content type="html"><![CDATA[<ul><li><p>使用kubernetes集群管理 docker容器<br>最近忙先贴上官方文档，等公司事情忙完了再来更新~<br><br><a href="https://kubernetes.io/docs/" target="_blank" rel="noopener">k8s官方文档</a>  <br><br>多说一句，多啃啃官方文档还是比较有意思的，起码锻炼了我的英语阅读水平。。。</p></li><li><p>To be continue…</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<ul><li>使用kubernetes集群管理 docker容器  最近忙先贴上官方文档，等公司事情忙完再来更新~<br><img src="/images/emojis/grin.png" width="32" height="32" class=" emoji nofancybox" title="grin"><br><a href="https://kubernetes.io/docs/" target="_blank" rel="noopener">k8s官方文档</a>  <br><br>多说一句，多啃啃官方文档还是比较有意思的，起码锻炼了我的英语阅读水平。。。<img src="/images/emojis/wink.png" width="32" height="32" class=" emoji nofancybox" title="wink"><br><br><br><br><br></li><li>To be continue…</li></ul>]]></content>
     
     <summary type="html">
     
@@ -43,9 +43,9 @@
     <link href="http://yoursite.com/2018/01/23/tutorial/"/>
     <id>http://yoursite.com/2018/01/23/tutorial/</id>
     <published>2018-01-23T02:51:36.000Z</published>
-    <updated>2018-01-24T15:49:14.449Z</updated>
+    <updated>2018-01-24T16:23:53.362Z</updated>
     
-    <content type="html"><![CDATA[<a id="more"></a><h3 id="关于搭建github博客的流程与注意事项"><a href="#关于搭建github博客的流程与注意事项" class="headerlink" title="关于搭建github博客的流程与注意事项"></a>关于搭建github博客的流程与注意事项</h3><hr><p>之前在我的vps上完成了一系列从建站-&gt;搭建博客-&gt;到自己写前后端等折腾了一番，获益匪浅。这里附上一篇建站教程，写的比我详细：详见<a href="https://lnki96.me/" target="_blank" rel="noopener">Hui’s Home</a>。如今转战Github Page，应该会长驻，不定期更新，分享技术心得，生活随笔，兴趣爱好。。。<br></p><h2 id="总之，生活嘛，怎么好玩怎么来"><a href="#总之，生活嘛，怎么好玩怎么来" class="headerlink" title="总之，生活嘛，怎么好玩怎么来~"></a>总之，生活嘛，怎么好玩怎么来~</h2><p>To be continue… </p>]]></content>
+    <content type="html"><![CDATA[<a id="more"></a><h2 id="gt-关于搭建github博客的流程与注意事项"><a href="#gt-关于搭建github博客的流程与注意事项" class="headerlink" title=" &gt;关于搭建github博客的流程与注意事项"></a> &gt;关于搭建github博客的流程与注意事项</h2><ul><li>之前在我的vps上完成了一系列从建站-&gt;搭建博客-&gt;到自己写前后端等折腾了一番，获益匪浅。这里附上一篇之前我参考的建站教程，写的比较详细：详见<a href="https://lnki96.me/" target="_blank" rel="noopener">Hui’s Home</a>。<br>如今转战Github Page，应该会长驻，不定期更新，分享技术心得，生活随笔，兴趣爱好。。。<br><br>总之，生活嘛，怎么好玩怎么来~<img src="/images/emojis/kissing_heart.png" width="32" height="32" class=" emoji nofancybox" title="kissing_heart"><br><br><br><br><br></li><li>To be continue… </li></ul><hr>]]></content>
     
     <summary type="html">
     
