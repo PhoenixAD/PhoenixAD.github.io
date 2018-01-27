@@ -46,7 +46,7 @@ ga('send', 'pageview');
 <meta property="og:site_name" content="Kylin Island">
 <meta property="og:description" content="getopt模块使用">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2018-01-27T17:38:46.363Z">
+<meta property="og:updated_time" content="2018-01-27T17:44:27.127Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Python getopt模块详解">
 <meta name="twitter:description" content="getopt模块使用">
@@ -235,7 +235,7 @@ ga('send', 'pageview');
 <p> import sys<br>import getopt</p>
 </li>
 <li><p>处理方法如下:</p>
-<p> try:<br><br> &emsp; opts, args = getopt.getopt(sys.argv[1:], “ho:”, [“help”, “output=”])<br> except getopt.GetoptError:<br> &emsp; # print help information and exit:  </p>
+<p> try:<br>&emsp; opts, args = getopt.getopt(sys.argv[1:], “ho:”, [“help”, “output=”])<br> except getopt.GetoptError:<br>&emsp; # print help information and exit:  </p>
 <ul>
 <li>处理所使用的函数叫getopt() ，因为是直接使用import 导入的getopt 模块，所以要加上限定getopt 才可以。</li>
 <li>使用sys.argv[1:] 过滤掉第一个参数（它是执行脚本的名字，不应算作参数的一部分）。</li>
@@ -319,7 +319,7 @@ if &quot;__main__&quot; == __name__:
     <div class="content">
         
 <span class="post-time">
-    最后更新时间：<time datetime="2018-01-27T17:38:46.363Z" itemprop="dateUpdated">2018-01-28 01:38:46</time>
+    最后更新时间：<time datetime="2018-01-27T17:44:27.127Z" itemprop="dateUpdated">2018-01-28 01:44:27</time>
 </span><br>
 
 
