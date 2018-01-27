@@ -46,7 +46,7 @@ ga('send', 'pageview');
 <meta property="og:site_name" content="Kylin Island">
 <meta property="og:description" content="getopt模块使用">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2018-01-27T14:32:36.363Z">
+<meta property="og:updated_time" content="2018-01-27T16:30:40.381Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Python getopt模块详解">
 <meta name="twitter:description" content="getopt模块使用">
@@ -232,7 +232,7 @@ ga('send', 'pageview');
 <p>The return value consists of two elements: the first is a list of (option, value) pairs; the second is the list of program arguments left after the option list was stripped (this is a trailing slice of the first argument). Each option-and-value pair returned has the option as its first element, prefixed with a hyphen (e.g., ‘-x’), and the option argument as its second element, or an empty string if the option has no argument. The options occur in the list in the same order in which they were found, thus allowing multiple occurrences. Long and short options may be mixed.</p>
 <h4 id="getopt的使用"><a href="#getopt的使用" class="headerlink" title="getopt的使用"></a>getopt的使用</h4><ol>
 <li><p>很简单，先导入<br></p>
-<p> import sys<br><br> import getopt</p>
+<p> import sys<br>import getopt</p>
 </li>
 <li><p>处理方法如下:</p>
 <p> try:<br><br> &emsp; opts, args = getopt.getopt(sys.argv[1:], “ho:”, [“help”, “output=”])<br> except getopt.GetoptError:<br> &emsp; # print help information and exit:  </p>
@@ -323,7 +323,7 @@ if &quot;__main__&quot; == __name__:
     <div class="content">
         
 <span class="post-time">
-    最后更新时间：<time datetime="2018-01-27T14:32:36.363Z" itemprop="dateUpdated">2018-01-27 22:32:36</time>
+    最后更新时间：<time datetime="2018-01-27T16:30:40.381Z" itemprop="dateUpdated">2018-01-28 00:30:40</time>
 </span><br>
 
 
